@@ -3,7 +3,7 @@
 This repository contains a Go application structured using the Go Fiber web framework. The structure follows best practices for a clean and maintainable codebase.
 
 ## Folder Structure
-me
+
 ```
 ├── .gitignore
 ├── README.md
